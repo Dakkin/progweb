@@ -1,1 +1,4 @@
 # progweb2
+Davi Moura Araujo
+Calebe Carias Degenário
+Nosso projeto consiste basicamente na criação de um aplicativo que facilite a negociação entre casa de shows e artistas, sejam eles de pequeno/médio ou grande relevância. O aplicativo terá duas "faces", em uma delas o dono da casa de shows terá acesso a artistas e bandas nas quais ele será capaz de solicitar uma apresentação. O empresário terá acesso a todo o repertório e componentes do grupo além de suas apresentações já feitas, além disso, ele deve informar toda a estrutura e equipamentos do estabelecimento. No caso do artista/banda ele terá que criar um perfil que mostre todos os requesitos pedidos para que ele seja capaz de ser contratado. O artista/banda também sera capaz de solicitar uma apresentação em algum local. Além disso esses terão acesso a um calendário que mostrará a agenda mensal dele(s).
